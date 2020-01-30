@@ -1,7 +1,7 @@
 # README #
 
 Static website for IT Innovation India pvt Ltd.
-
+(WebApp created in React)
 Some important basic git commands.
 
 
