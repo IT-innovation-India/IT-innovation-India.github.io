@@ -1,31 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46958360532185f8e2600abc6f4f6651",
+    "revision": "afea8ffa2137c9ead3372f2524f8c1e9",
     "url": "/index.html"
   },
   {
-    "revision": "6f8e66f22599db2081d4",
+    "revision": "80c376b49f2e39b7d04f",
     "url": "/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "1c0feee7229999f53f9c",
-    "url": "/static/css/main.4e73b60b.chunk.css"
+    "revision": "1470712a5d1135ab75b9",
+    "url": "/static/css/main.3045ae52.chunk.css"
   },
   {
-    "revision": "6f8e66f22599db2081d4",
-    "url": "/static/js/2.64da413e.chunk.js"
+    "revision": "80c376b49f2e39b7d04f",
+    "url": "/static/js/2.84eff03f.chunk.js"
   },
   {
     "revision": "d9f68a349bb7d589151d4face76bac2f",
-    "url": "/static/js/2.64da413e.chunk.js.LICENSE"
+    "url": "/static/js/2.84eff03f.chunk.js.LICENSE"
   },
   {
-    "revision": "1c0feee7229999f53f9c",
-    "url": "/static/js/main.f614c7ce.chunk.js"
+    "revision": "1470712a5d1135ab75b9",
+    "url": "/static/js/main.ea2b63c5.chunk.js"
   },
   {
     "revision": "8ad71b5583c162c75b4c",
     "url": "/static/js/runtime-main.5d7141c9.js"
+  },
+  {
+    "revision": "7a724e2f4ad98653c5ba921e8a13afc3",
+    "url": "/static/media/classroom.7a724e2f.png"
+  },
+  {
+    "revision": "e1526fc915e586817e5897a2376cc159",
+    "url": "/static/media/groupcompany.e1526fc9.png"
+  },
+  {
+    "revision": "d8287fc39d6b48e7067e874baa10e2d5",
+    "url": "/static/media/hitachi.d8287fc3.png"
   },
   {
     "revision": "8bbdbd78341125a2d54c56eb1fe0940c",
@@ -42,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "93f8f97c62e6c9de77b0e3d5c55b899e",
     "url": "/static/media/iti-aitech.93f8f97c.png"
+  },
+  {
+    "revision": "a2582bae953dea738d2c07cae8cf8e0d",
+    "url": "/static/media/iti-apartment.a2582bae.png"
   },
   {
     "revision": "b153dc927ae797119ceee85fab91e383",
@@ -70,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a89aad6ffe1627d9968c32cd29170194",
     "url": "/static/media/iti-designthinking.a89aad6f.jpg"
+  },
+  {
+    "revision": "eb46a80d05f87f4e373b8e881f9d84f1",
+    "url": "/static/media/iti-emergency.eb46a80d.jpg"
   },
   {
     "revision": "c8ceef22cd6a1b35b33341a781cf4168",
@@ -104,8 +124,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/iti-logo.b7b95855.JPG"
   },
   {
+    "revision": "9441dd801ee15532d6c74ecee9192b11",
+    "url": "/static/media/iti-meet.9441dd80.png"
+  },
+  {
     "revision": "b476dce73e3fcc6d510b20fa0ddd55d0",
     "url": "/static/media/iti-network.b476dce7.jpg"
+  },
+  {
+    "revision": "f6797c646126a72bc6fdd6702fadb888",
+    "url": "/static/media/iti-pc.f6797c64.jpg"
   },
   {
     "revision": "da0f78faff867a870f4136361a1eab37",
@@ -120,6 +148,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/iti-punelifestyle.4552a3c3.jpg"
   },
   {
+    "revision": "17515c29197d27d79f43f3ea7cb46f7a",
+    "url": "/static/media/iti-quality.17515c29.png"
+  },
+  {
     "revision": "aedfe5bcaca1de1f9c70ff96ccbf4dfd",
     "url": "/static/media/iti-softskill.aedfe5bc.jpg"
   },
@@ -128,8 +160,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/iti-software.ef14bd76.jpeg"
   },
   {
+    "revision": "7a9f3dfd47786bd6e5dcdd91a9cec02e",
+    "url": "/static/media/iti-transport.7a9f3dfd.png"
+  },
+  {
     "revision": "57e269d772efb557362226367e9e2a63",
     "url": "/static/media/iti-webtech.57e269d7.jpeg"
+  },
+  {
+    "revision": "eb50088c945851dab063e411491919ed",
+    "url": "/static/media/nri.eb50088c.png"
+  },
+  {
+    "revision": "a306c008d24c674bfdb0b05aa403570c",
+    "url": "/static/media/ntt.a306c008.png"
+  },
+  {
+    "revision": "88b91c9a34947109dc31421cc346b704",
+    "url": "/static/media/practical.88b91c9a.png"
   },
   {
     "revision": "26cca5c7aee51a17f5247b4c88efc37d",
