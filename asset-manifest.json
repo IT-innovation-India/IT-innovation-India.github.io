@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3045ae52.chunk.css",
-    "main.js": "/static/js/main.ea2b63c5.chunk.js",
-    "main.js.map": "/static/js/main.ea2b63c5.chunk.js.map",
+    "main.css": "/static/css/main.c47283cd.chunk.css",
+    "main.js": "/static/js/main.bb719806.chunk.js",
+    "main.js.map": "/static/js/main.bb719806.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5d7141c9.js",
     "runtime-main.js.map": "/static/js/runtime-main.5d7141c9.js.map",
     "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.84eff03f.chunk.js": "/static/js/2.84eff03f.chunk.js",
-    "static/js/2.84eff03f.chunk.js.map": "/static/js/2.84eff03f.chunk.js.map",
+    "static/js/2.61aef7cc.chunk.js": "/static/js/2.61aef7cc.chunk.js",
+    "static/js/2.61aef7cc.chunk.js.map": "/static/js/2.61aef7cc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6b01f9c41e773e1fc3c47bbdb8f94040.js": "/precache-manifest.6b01f9c41e773e1fc3c47bbdb8f94040.js",
+    "precache-manifest.d8d4c20e83f6c1bab41c86733a1624b6.js": "/precache-manifest.d8d4c20e83f6c1bab41c86733a1624b6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.3045ae52.chunk.css.map": "/static/css/main.3045ae52.chunk.css.map",
-    "static/js/2.84eff03f.chunk.js.LICENSE": "/static/js/2.84eff03f.chunk.js.LICENSE",
+    "static/css/main.c47283cd.chunk.css.map": "/static/css/main.c47283cd.chunk.css.map",
+    "static/js/2.61aef7cc.chunk.js.LICENSE": "/static/js/2.61aef7cc.chunk.js.LICENSE",
     "static/media/classroom.png": "/static/media/classroom.7a724e2f.png",
     "static/media/groupcompany.png": "/static/media/groupcompany.e1526fc9.png",
     "static/media/hitachi.png": "/static/media/hitachi.d8287fc3.png",
@@ -30,7 +30,7 @@
     "static/media/iti-data.jpg": "/static/media/iti-data.a4df6454.jpg",
     "static/media/iti-designthinking.jpg": "/static/media/iti-designthinking.a89aad6f.jpg",
     "static/media/iti-emergency.jpg": "/static/media/iti-emergency.eb46a80d.jpg",
-    "static/media/iti-globalhub.png": "/static/media/iti-globalhub.c8ceef22.png",
+    "static/media/tablet.css": "/static/media/iti-globalhub.c8ceef22.png",
     "static/media/iti-globalprojectm.jpeg.jpg": "/static/media/iti-globalprojectm.jpeg.0ca9e356.jpg",
     "static/media/iti-industries.jpeg": "/static/media/iti-industries.67d832bd.jpeg",
     "static/media/iti-intensive.jpg": "/static/media/iti-intensive.4ec7d0e2.jpg",
@@ -58,8 +58,8 @@
   "entrypoints": [
     "static/js/runtime-main.5d7141c9.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.84eff03f.chunk.js",
-    "static/css/main.3045ae52.chunk.css",
-    "static/js/main.ea2b63c5.chunk.js"
+    "static/js/2.61aef7cc.chunk.js",
+    "static/css/main.c47283cd.chunk.css",
+    "static/js/main.bb719806.chunk.js"
   ]
 }
