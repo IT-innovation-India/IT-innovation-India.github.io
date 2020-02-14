@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c47283cd.chunk.css",
-    "main.js": "/static/js/main.bb719806.chunk.js",
-    "main.js.map": "/static/js/main.bb719806.chunk.js.map",
+    "main.css": "/static/css/main.0ccb1287.chunk.css",
+    "main.js": "/static/js/main.30bd05f6.chunk.js",
+    "main.js.map": "/static/js/main.30bd05f6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5d7141c9.js",
     "runtime-main.js.map": "/static/js/runtime-main.5d7141c9.js.map",
     "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
     "static/js/2.61aef7cc.chunk.js": "/static/js/2.61aef7cc.chunk.js",
     "static/js/2.61aef7cc.chunk.js.map": "/static/js/2.61aef7cc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d8d4c20e83f6c1bab41c86733a1624b6.js": "/precache-manifest.d8d4c20e83f6c1bab41c86733a1624b6.js",
+    "precache-manifest.c48bf275f404f67a5ef8dc4b5effb08b.js": "/precache-manifest.c48bf275f404f67a5ef8dc4b5effb08b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.c47283cd.chunk.css.map": "/static/css/main.c47283cd.chunk.css.map",
+    "static/css/main.0ccb1287.chunk.css.map": "/static/css/main.0ccb1287.chunk.css.map",
     "static/js/2.61aef7cc.chunk.js.LICENSE": "/static/js/2.61aef7cc.chunk.js.LICENSE",
+    "static/media/ceo-message.png": "/static/media/ceo-message.6a8101de.png",
     "static/media/classroom.png": "/static/media/classroom.7a724e2f.png",
     "static/media/groupcompany.png": "/static/media/groupcompany.e1526fc9.png",
     "static/media/hitachi.png": "/static/media/hitachi.d8287fc3.png",
@@ -49,7 +50,6 @@
     "static/media/iti-software.jpeg": "/static/media/iti-software.ef14bd76.jpeg",
     "static/media/iti-transport.png": "/static/media/iti-transport.7a9f3dfd.png",
     "static/media/iti-webtech.jpeg": "/static/media/iti-webtech.57e269d7.jpeg",
-    "static/media/nri.png": "/static/media/nri.eb50088c.png",
     "static/media/ntt.png": "/static/media/ntt.a306c008.png",
     "static/media/practical.png": "/static/media/practical.88b91c9a.png",
     "static/media/research.jpg": "/static/media/research.26cca5c7.jpg",
@@ -59,7 +59,7 @@
     "static/js/runtime-main.5d7141c9.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.61aef7cc.chunk.js",
-    "static/css/main.c47283cd.chunk.css",
-    "static/js/main.bb719806.chunk.js"
+    "static/css/main.0ccb1287.chunk.css",
+    "static/js/main.30bd05f6.chunk.js"
   ]
 }

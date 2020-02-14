@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bf5d3140564d0e63934e7c27961c47a",
+    "revision": "f5080f8eda5ea70ec6e6724edf102cf8",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "b869fdd97f81c683c5bf",
-    "url": "/static/css/main.c47283cd.chunk.css"
+    "revision": "66811b64fc3c2132d80f",
+    "url": "/static/css/main.0ccb1287.chunk.css"
   },
   {
     "revision": "7109764894b7c9743ac2",
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.61aef7cc.chunk.js.LICENSE"
   },
   {
-    "revision": "b869fdd97f81c683c5bf",
-    "url": "/static/js/main.bb719806.chunk.js"
+    "revision": "66811b64fc3c2132d80f",
+    "url": "/static/js/main.30bd05f6.chunk.js"
   },
   {
     "revision": "8ad71b5583c162c75b4c",
     "url": "/static/js/runtime-main.5d7141c9.js"
+  },
+  {
+    "revision": "6a8101dec9d905fc11cd8897920ce974",
+    "url": "/static/media/ceo-message.6a8101de.png"
   },
   {
     "revision": "7a724e2f4ad98653c5ba921e8a13afc3",
@@ -166,10 +170,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "57e269d772efb557362226367e9e2a63",
     "url": "/static/media/iti-webtech.57e269d7.jpeg"
-  },
-  {
-    "revision": "eb50088c945851dab063e411491919ed",
-    "url": "/static/media/nri.eb50088c.png"
   },
   {
     "revision": "a306c008d24c674bfdb0b05aa403570c",
